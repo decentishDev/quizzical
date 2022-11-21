@@ -1,3 +1,4 @@
 # quizzical
 ominous flashcards app
-go to <future link> to access
+<br>
+go to link.com to access
