@@ -6,7 +6,7 @@ body {
   line-height: 1.58;
   letter-spacing: -.003em;
   font-size: 20px;
-  padding: 140px;
+  padding: 50px 140px;
   background-color: #111111;
 }
 
@@ -14,32 +14,35 @@ h1 {
   font-family: 'Quicksand', sans-serif;
   font-weight: 700;
   font-style: normal;
-  font-size: 38px;
+  font-size: 54px;
   line-height: 1.15;
   letter-spacing: -.02em;
   color: rgb(255, 255, 255);
   -webkit-font-smoothing: antialiased;
+  margin: 0px;
 }
 
 input {
     border-radius: 8px;
     border: none;
     padding: 5px 5px;
+    background-color: rgb(39, 39, 39);
+    color: rgb(255, 255, 255);
 }
 
 button {
     font-family: 'Quicksand', sans-serif;
     font-weight: 700;
     font-style: normal;
-    font-size: 15px;
-    background-color: #020f08; /* Green */
+    font-size: 16px;
+    background-color: rgb(39, 39, 39);
     border: none;
     color: rgb(255, 255, 255);
     padding: 10px 10px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    margin: 20px 0px;
+    margin: 5px 0px;
     cursor: pointer;
     border-radius: 8px;
   }

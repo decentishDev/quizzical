@@ -1,4 +1,4 @@
 # quizzical
 ominous flashcards app
 <br>
-go to link.com to access
+go to https://decentishdev.github.io/quizzical/ to access
