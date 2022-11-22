@@ -26,5 +26,5 @@ function startSet(listName){
     document.getElementById("list14").style = "background-color: rgb(39, 39, 39);";
     document.getElementById("list15").style = "background-color: rgb(39, 39, 39);";
     document.getElementById("list" + listName.toString()).style = "background-color: rgb(70, 70, 70);";
-    document.getElementById("card").innerHTML = sets[(listName-10)[1]];
+    document.getElementById("card").value = sets[(listName-10)[1]];
 }
