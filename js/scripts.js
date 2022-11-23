@@ -1,4 +1,4 @@
-const sets = [["set11q1", "set11a1", "set11q2", "set11a2"], ["set12q1", "set12a1", "set12q2", "set12a2"]];
+const sets = [["set11q1", "set11a1", "set11q2", "set11a2", "set11q3", "set11a3"], ["set12q1", "set12a1", "set12q2", "set12a2", "set12q3", "set12a3"], ["set13q1", "set13a1", "set13q2", "set13a2", "set13q3", "set13a3"], ["set14q1", "set14a1", "set14q2", "set14a2", "set14q3", "set14a3"], ["set15q1", "set15a1", "set15q2", "set15a2", "set15q3", "set15a3"]];
 let set = -1;
 let card = 0;
 document.getElementById("list11").onclick = function(){
